@@ -1,0 +1,25 @@
+body{
+	margin: 0;}
+.container{
+ 	display: flex;
+ 	background-color: tomato;
+ 	align-items:center;
+ 	min-height: 100vh;
+ 	justify-content: flex-end;
+
+ }
+.item{
+	width: 150px;
+	margin: 10px;
+	background-color: skyblue;
+	height: 250px;
+}
+.one{
+ 	background-color: yellow;
+ 	height: 150px;
+ }
+.three
+ {background-color: pink;
+ 	height: 450px;
+ }
+
