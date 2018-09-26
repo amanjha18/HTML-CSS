@@ -1,0 +1,38 @@
+body {
+	margin: 0px;
+}
+.skyblue {
+	background-color: skyblue;
+	padding: 1px;
+}
+h1 {
+	text-align: center;
+	text-transform: uppercase;
+	font-weight: lighter;
+}
+.main {
+	display: flex;
+	height: 815px;
+	line-height: 830px;
+	text-align: center;
+}
+
+.aqua {
+	background-color: aqua;
+	flex-grow: 1;
+	width: 500px;
+
+}
+.darkred {
+	background-color: darkred;
+	flex-grow: 2;
+}
+.yellowgreen {
+	background-color: yellowgreen;
+	flex-grow: 1;
+
+}
+.pink {
+	background-color: lightpink;
+	padding: 1px;
+}
